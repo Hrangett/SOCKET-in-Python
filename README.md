@@ -1,4 +1,4 @@
-# TCP-IP-in-Python
+# SOCKET-in-Python
 
 ## Serial 통신
   - VSPE를 통한 가상 통신포트 설정, SerialPortMon을 통한 가상 클라이언트 설정
